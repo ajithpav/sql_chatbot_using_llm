@@ -19,5 +19,5 @@ This Streamlit application allows you to **chat with your SQL databases** (SQLit
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/chat-with-sql-db.git
+git clone https://github.com/your-username/chat-with-sql-db.git](https://github.com/ajithpav/sql_chatbot_using_llm.git
 cd chat-with-sql-db
